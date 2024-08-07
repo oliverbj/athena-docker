@@ -15,7 +15,7 @@ Bringing up the Docker Compose network with `app` instead of just using `up`, en
 
 - **nginx** - `:80`
 - **mysql** - `:3306`
-- **php** - `:9000`
+- **php** - `:8020`
 - **redis** - `:6379`
 - **mailhog** - `:8025` 
 
