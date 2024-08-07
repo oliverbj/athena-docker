@@ -6,6 +6,7 @@ networks:
 
 services:
   app:
+    pull_policy: build
     build:
       context: ./dockerfiles
       dockerfile: nginx.dockerfile
